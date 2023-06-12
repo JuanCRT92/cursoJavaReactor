@@ -1,0 +1,44 @@
+
+N	java:S1062"9Replace this use of System.out or System.err by a logger.( «Ò–
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ò¢Ù¤
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(˜…‹
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÏäëÄøÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(æÿÈ­ùÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ñ¦¢
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(Şèùúÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ğŒ«
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Ìêå©ùÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Şñ¿®
+S	java:S106="9Replace this use of System.out or System.err by a logger.(˜Ê†şÿÿÿÿ
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(§œ‡
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(¬÷ç‰
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(Ú¤¶²
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ª›Ë¶ùÿÿÿÿ
+M	java:S106Z"9Replace this use of System.out or System.err by a logger.(á‡ÒA
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ê¼úıÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(é÷¤Á
+N	java:S106g"9Replace this use of System.out or System.err by a logger.( ¤ê“
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(‰îÖøøÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(½Ú¼ä
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ
+H
+java:S3599‡",Use another way to initialize this instance.(“ŸÖ‹øÿÿÿÿ
+u
+java:S1171‡"YMove the contents of this initializer to a standard constructor or to field initializers.(“ŸÖ‹øÿÿÿÿ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Èµ‰¯ıÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(Í™à²øÿÿÿÿ
+N	java:S106—"9Replace this use of System.out or System.err by a logger.(íë“v
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÇèã
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ
+C
+java:S3599´",Use another way to initialize this instance.(Ïë¤¹
+p
+java:S1171´"YMove the contents of this initializer to a standard constructor or to field initializers.(Ïë¤¹
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.(£Ã–ç
+H
+java:S3599À",Use another way to initialize this instance.(“ŸÖ‹øÿÿÿÿ
+u
+java:S1171À"YMove the contents of this initializer to a standard constructor or to field initializers.(“ŸÖ‹øÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(Èµ‰¯ıÿÿÿÿ
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ÜË¬Ğ

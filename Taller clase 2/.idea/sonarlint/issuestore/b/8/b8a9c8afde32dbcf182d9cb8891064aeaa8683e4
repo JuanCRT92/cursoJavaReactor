@@ -1,0 +1,15 @@
+
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ç¥‡Ğ
+†
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ƒŸı÷
+z
+java:S1319#"dThe type of "data" should be an interface such as "List" rather than the implementation "ArrayList".(ƒŸı÷
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ñ°Ù®şÿÿÿÿ
+L
+java:S1611'"6Remove the parentheses around the "document" parameter(ë Ê 
+L
+java:S16116"6Remove the parentheses around the "document" parameter(¼î‰
+B
+java:S1602@",Remove useless curly braces around statement(°ìÒ
